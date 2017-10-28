@@ -15,11 +15,10 @@ Bizim projemiz IYPT’nin 1998 yılında yayınladığı buz sarkıtları (saça
   Özetle saçakların oluşabilmesi için hava sıcaklığının eksili derecede olması gerekir. Devamlı ilerlemekte olan sarkıtlar kardan eriyip damlayan damlacıklarla daha da büyümektedir. Özellikle iş hanlarında oldukça uzun ve büyük sarkıtların oluştuğu bilinir.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
  1. Wonders, O. "How Are Icicles Formed?" , Wonderoplis.
  https://wonderopolis.org/wonder/how-are-icicles-formed
- Son erişim tarihi : t.y
+ Son erişim tarihi : tarih yok
  2.  “Buz Sarkıtları Nasıl Oluşur”, Denkbilgi.com
 http://www.denkbilgi.com/buz-sarkitlari-nasil-olusur.html
  Son erişim tarihi: 10 Aralık 2015.
